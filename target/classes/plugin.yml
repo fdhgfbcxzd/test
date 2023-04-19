@@ -1,0 +1,6 @@
+name: Event_Ib_happy
+version: '1.0'
+main: uk.g1444332.event_ib_happy.Event_Ib_happy
+api-version: 1.19
+commands:
+  event:
